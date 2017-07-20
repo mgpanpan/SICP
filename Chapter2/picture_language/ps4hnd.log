@@ -1,0 +1,28 @@
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/W32TeX) (format=xelatex 2014.4.4)  25 JUL 2014 14:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**.\ps4hnd.tex
+(./ps4hnd.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+! I can't find file `/zu/6001-devel/6001mac'.
+l.11 \input  /zu/6001-devel/6001mac
+                                   
+(Press Enter to retry, or Control-Z to exit)
+Please type another input file name: 
+! Emergency stop.
+l.11 \input  /zu/6001-devel/6001mac
+                                   
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 7 strings out of 493938
+ 65 string characters out of 6151978
+ 51899 words of memory out of 5000000
+ 3408 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 5i,0n,3p,83b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
